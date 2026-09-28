@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1790588813798,
+  "timestamp": 1790610449949,
   "index": "/plano-mo/index.html",
   "assetGroups": [
     {
@@ -10,13 +10,7 @@
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "urls": [
-        "/plano-mo/favicon.ico",
-        "/plano-mo/index.html",
-        "/plano-mo/main-GILTDXMW.js",
-        "/plano-mo/manifest.webmanifest",
-        "/plano-mo/styles-WT2FEGU3.css"
-      ],
+      "urls": [],
       "patterns": []
     },
     {
@@ -26,23 +20,12 @@
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "urls": [
-        "/plano-mo/assets/Plano_Estadio.svg",
-        "/plano-mo/assets/stands.json"
-      ],
+      "urls": [],
       "patterns": []
     }
   ],
   "dataGroups": [],
-  "hashTable": {
-    "/plano-mo/assets/Plano_Estadio.svg": "fa4620985a8fb69ddfe89e72ce922b7155c0cce0",
-    "/plano-mo/assets/stands.json": "a03a339009b6bc8f0292957cc87774d799e8761c",
-    "/plano-mo/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/plano-mo/index.html": "4f3267ca4d5bc0f1b3eb3156e29514661d482903",
-    "/plano-mo/main-GILTDXMW.js": "80b57dd46d176044aa1bfb14767acd58205771cc",
-    "/plano-mo/manifest.webmanifest": "80e16b8e0843ef782b407b82738e6fceb24abef5",
-    "/plano-mo/styles-WT2FEGU3.css": "f1cda08504ac6fde3635ffc32fdc94f32cf02601"
-  },
+  "hashTable": {},
   "navigationUrls": [
     {
       "positive": true,
