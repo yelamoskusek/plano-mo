@@ -8,14 +8,14 @@
   },
   {
     "id": 2,
-    "nombre": "Stand A2",
+    "nombre": "Stand AA2",
     "categoria": "tecnologia",
     "descripcion": "Gadgets y accesorios tech",
     "x": 22, "y": 8.2, "width": 8, "height": 3.3
   },
   {
     "id": 3,
-    "nombre": "Stand B1",
+    "nombre": "Stand BB1",
     "categoria": "ropa",
     "descripcion": "Moda sostenible",
     "x": 10, "y": 19.1, "width": 8, "height": 3.3
@@ -25,13 +25,13 @@
     "nombre": "Zona Food Trucks",
     "categoria": "comida",
     "descripcion": "Comida callejera variada",
-    "x": 90, "y": 72.37, "width": 10, "height": 5
+    "x": 80, "y": 72.37, "width": 10, "height": 5
   },
   {
     "id": 5,
     "nombre": "Stand C3",
     "categoria": "ocio",
     "descripcion": "Zona de juegos y descanso",
-    "x": 100, "y": 16.4, "width": 10, "height": 4.4
+    "x": 80, "y": 16.4, "width": 10, "height": 4.4
   }
 ]
