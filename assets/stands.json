@@ -2,27 +2,31 @@
   {
     "id": 1,
     "nombre": "Stand A1",
-    "categoria": "comida",
-    "descripcion": "Tapas y bebidas artesanales",
+    "planoId": "principal",
+    "categoria": "actividades",
+    "descripcion": "actividades y actividades artesanales",
     "x": 0, "y": 0, "width": 8, "height": 3.3
   },
   {
     "id": 2,
     "nombre": "Stand AA2",
-    "categoria": "tecnologia",
-    "descripcion": "Gadgets y accesorios tech",
+    "planoId": "principal",
+    "categoria": "artesanos",
+    "descripcion": "artesanos y artesanos tech",
     "x": 22, "y": 8.2, "width": 8, "height": 3.3
   },
   {
     "id": 3,
     "nombre": "Stand BB1",
-    "categoria": "ropa",
-    "descripcion": "Moda sostenible",
+    "planoId": "principal",
+    "categoria": "comercial",
+    "descripcion": "Moda comercial",
     "x": 10, "y": 19.1, "width": 8, "height": 3.3
   },
   {
     "id": 4,
     "nombre": "Zona Food Trucks",
+    "planoId": "principal",
     "categoria": "comida",
     "descripcion": "Comida callejera variada",
     "x": 80, "y": 72.37, "width": 10, "height": 5
@@ -30,8 +34,17 @@
   {
     "id": 5,
     "nombre": "Stand C3",
-    "categoria": "ocio",
-    "descripcion": "Zona de juegos y descanso",
+    "planoId": "principal",
+    "categoria": "servicios",
+    "descripcion": "Zona de servicios y descanso",
     "x": 80, "y": 16.4, "width": 10, "height": 4.4
+  },
+  {
+    "id": 6,
+    "nombre": "Stand C3, zona-a",
+    "planoId": "zona-a",
+    "categoria": "actividades",
+    "descripcion": "Zona de juegos y descanso",
+    "x": 70, "y": 16.4, "width": 10, "height": 4.4
   }
 ]
