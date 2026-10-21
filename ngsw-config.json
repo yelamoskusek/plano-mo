@@ -1,0 +1,29 @@
+{
+  "$schema": "./node_modules/@angular/service-worker/config/schema.json",
+  "index": "/plano-mo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "resources": {
+        "files": [
+          "/plano-mo/favicon.ico",
+          "/plano-mo/index.html",
+          "/plano-mo/manifest.webmanifest",
+          "/plano-mo/*.css",
+          "/plano-mo/*.js"
+        ]
+      }
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "resources": {
+        "files": [
+          "/plano-mo/assets/**"
+        ]
+      }
+    }
+  ]
+}

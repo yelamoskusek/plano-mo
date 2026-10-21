@@ -1,0 +1,10 @@
+<!-- src/app/components/bottom-nav/bottom-nav.html -->
+<nav class="nav">
+  @for (plano of planosService.planos(); track plano.id) {
+    <button
+      [class.activo]="planosService.planoActualId() === plano.id"
+      (click)="planosService.cambiarPlano(plano.id)">
+      {{ plano.nombre }}
+    </button>
+  }
+</nav>

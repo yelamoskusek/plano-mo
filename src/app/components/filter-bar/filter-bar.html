@@ -1,0 +1,16 @@
+
+<div class="filtros">
+  <button
+    [class.activo]="filterService.categoriaActiva() === null"
+    (click)="filterService.filtrarPor(null)">
+    Todas
+  </button>
+
+  @for (cat of categorias; track cat) {
+    <button
+      [class.activo]="filterService.categoriaActiva() === cat"
+      (click)="filterService.filtrarPor(cat)">
+      {{ cat }}
+    </button>
+  }
+</div>

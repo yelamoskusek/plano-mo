@@ -1,0 +1,53 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  display: flex;
+  align-items: flex-end;
+  z-index: 100;
+}
+
+.contenido {
+  background: #fff;
+  width: 100%;
+  border-radius: 1rem 1rem 0 0;
+  padding: 1.5rem;
+  animation: slideUp 0.25s ease;
+}
+
+@keyframes slideUp {
+  from { transform: translateY(100%); }
+  to   { transform: translateY(0); }
+}
+
+h3 {
+  margin: 0 0 0.5rem;
+}
+
+p {
+  color: #4b5563;
+  margin: 0.75rem 0 1.25rem;
+  white-space: pre-line;
+
+}
+
+.badge {
+  display: inline-block;
+  color: #fff;
+  padding: 0.2rem 0.6rem;
+  border-radius: 0.5rem;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.cerrar {
+  width: 100%;
+  padding: 0.75rem;
+  color: #111827;
+  background: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+}

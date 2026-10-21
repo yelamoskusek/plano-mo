@@ -1,0 +1,53 @@
+<div class="mapa-container">
+  <div #plano class="plano-transformable">
+    <!-- <svg viewBox="0 0 100 141.45" preserveAspectRatio="xMidYMid meet" class="plano-svg"> -->
+      <svg viewBox="0 0 100 77.37" preserveAspectRatio="xMinYMin meet" class="plano-svg">
+      <image [attr.href]="planosService.planoActual().archivo"
+             x="0" y="0" width="100" height="77.37" style="pointer-events: none"/>
+
+      @for (stand of standsService.stands(); track stand.id) {
+        <g
+          class="stand"
+          [class.atenuado]="!filterService.estaResaltado(stand)"
+          [class.seleccionado]="standSeleccionado()?.id === stand.id"
+          [class.favorito]="favoritosService.esFavorito(stand.id)"
+          (click)="seleccionarStand(stand)"
+          (pointerdown)="iniciarLongPress(stand)"
+          (pointerup)="cancelarLongPress()"
+          (pointercancel)="cancelarLongPress()"
+          (pointerleave)="cancelarLongPress()"
+        >
+          <rect
+            [attr.x]="stand.x"
+            [attr.y]="stand.y"
+            [attr.width]="stand.width"
+            [attr.height]="stand.height"
+            [attr.fill]="standsService.colorPorCategoria(stand.categoria)"
+            rx="0.8"
+          />
+          <text
+            [attr.x]="stand.x + stand.width / 2"
+            [attr.y]="stand.y + stand.height / 2"
+            [attr.textLength]="stand.width * 0.9"
+            lengthAdjust="spacingAndGlyphs"
+            text-anchor="middle"
+            dominant-baseline="middle"
+            class="stand-label"
+          >
+            {{ stand.nombre }}
+          </text>
+        </g>
+      }
+    </svg>
+  </div>
+</div>
+
+<div class="controles-zoom">
+  <button (click)="zoomIn()">+</button>
+  <button (click)="zoomOut()">−</button>
+  <button (click)="reset()">⟲</button>
+</div>
+
+@if (standSeleccionado(); as s) {
+  <app-stand-detalle [stand]="s" (cerrar)="cerrarDetalle()" />
+}

@@ -1,0 +1,28 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+app-filter-bar {
+  flex: 0 0 auto;
+}
+
+app-map-view {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+app-botonera-navegacion {
+  flex: 0 0 auto;
+}
+.titulo{
+  font-family: Outfit,sans-serif;
+  background-color: #990c24;
+  color: #fffefe;
+}
+

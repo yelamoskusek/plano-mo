@@ -1,12 +1,15 @@
-import { Component, signal } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { Component } from '@angular/core';
+import { FilterBarComponent } from './components/filter-bar/filter-bar';
+import { MapView } from './components/map-view/map-view';
+import { BottomNav } from './components/botonera-navegacion/botonera-navegacion';
+import { Info } from './components/info/info';
+
 
 @Component({
-  imports: [RouterOutlet],
   selector: 'app-root',
-  styleUrl: './app.css',
+  standalone: true,
+  imports: [MapView, FilterBarComponent, BottomNav, Info],
   templateUrl: './app.html',
+  styleUrls: ['./app.css']
 })
-export class App {
-  protected readonly title = signal('plano-mo');
-}
+export class AppComponent {}

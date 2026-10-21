@@ -1,0 +1,26 @@
+
+.filtros {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.75rem;
+  overflow-x: auto;
+  background: #fff;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+button {
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid #d1d5db;
+  background: #fff;
+  white-space: nowrap;
+  cursor: pointer;
+  text-transform: capitalize;
+  font-size: 0.9rem;
+}
+
+button.activo {
+  background: #111827;
+  color: #fff;
+  border-color: #111827;
+}

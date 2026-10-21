@@ -1,0 +1,25 @@
+/* src/app/components/bottom-nav/bottom-nav.css */
+.nav {
+  display: flex;
+  background: #fff;
+  border-top: 1px solid #e5e7eb;
+  padding: 0.25rem;
+}
+
+button {
+  flex: 1;
+  padding: 0.6rem 0.5rem;
+  border: none;
+  background: transparent;
+  color: #6b7280;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+button.activo {
+  background-color: #990c24;
+  color: #fffefe;
+}

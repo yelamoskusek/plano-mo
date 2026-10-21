@@ -1,0 +1,15 @@
+<div class="overlay" (click)="cerrarDetalle()">
+  <div class="contenido" (click)="$event.stopPropagation()">
+    <h3>{{ stand.nombre }}</h3>
+
+    <span
+      class="badge"
+      [style.background]="standsService.colorPorCategoria(stand.categoria)">
+      {{ stand.categoria }}
+    </span>
+
+    <p>{{ stand.descripcion }}</p>
+
+    <button class="cerrar" (click)="cerrarDetalle()">Cerrar</button>
+  </div>
+</div>
