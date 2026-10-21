@@ -8,7 +8,7 @@ private readonly _planos = signal<Plano[]>([
     {
       id: 'principal',
       nombre: 'Principal',
-      archivo: 'assets/Plano_A.svg',
+      archivo: 'assets/PlanoA.png',
       archivoStands: 'assets/stands/principal.json'
     },
     {
