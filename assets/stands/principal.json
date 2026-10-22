@@ -311,99 +311,92 @@
     "id": 110,
     "nombre": "D10",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D010 - Abesti y Sakebi",
     "x": 1683, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 111,
     "nombre": "D11",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D011 - Kharen Hardcore",
     "x": 1780, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 112,
     "nombre": "D12",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D012 - Carmen Parra",
     "x": 1833, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 113,
     "nombre": "D13",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D013 - Raquel West",
     "x": 2012, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 114,
     "nombre": "D14",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D014 - Reaandull y Tereceratops",
     "x": 2066, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 115,
     "nombre": "D15",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D015 - Essie Lop",
     "x": 2162, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 116,
     "nombre": "D16",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D016 - STRAYUU",
     "x": 2212, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 117,
     "nombre": "D17",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D017 - Gisselle Anderson",
     "x": 872, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 118,
     "nombre": "D18",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D018 - Binu",
     "x": 926, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 119,
     "nombre": "D19",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D019 - MVpurple",
     "x": 980, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 120,
     "nombre": "D20",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D020 - Tautuajeart",
     "x": 1033, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 121,
     "nombre": "D21",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D021 - Kylukia",
     "x": 1084, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 122,
-    "nombre": "D22",
+    "nombre": "D22-D23",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
-    "x": 1135, "y": 373, "width": 50, "height": 50
-  },
-  {
-    "id": 123,
-    "nombre": "D23",
-    "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
-    "x": 1187, "y": 373, "width": 50, "height": 50
+    "descripcion": "D022/D023 - MARI.ART",
+    "x": 1135, "y": 373, "width": 100, "height": 50
   },
   {
     "id": 124,
