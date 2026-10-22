@@ -10,182 +10,1200 @@
     "id": 2,
     "nombre": "C02",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C002 - Crochegurumis",
     "x": 308, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 3,
     "nombre": "C03",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C003 - pumpkinanaa",
     "x": 492, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 4,
-    "nombre": "C03",
+    "nombre": "C04",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C004 - Manlima",
     "x": 545, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 5,
-    "nombre": "C03",
+    "nombre": "C05",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C005 - Virginia Gallery",
     "x": 640, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 6,
-    "nombre": "C03",
+    "nombre": "C06",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C006 - Las Manos de Anyël",
     "x": 694, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 7,
-    "nombre": "C03",
+    "nombre": "C07",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C007 - La Alegría de La Huerta",
     "x": 216, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 8,
-    "nombre": "C03",
+    "nombre": "C08",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C008 - Younaamigumis",
     "x": 270, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 9,
-    "nombre": "C03",
+    "nombre": "C09",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C009 - Magic Nailx",
     "x": 323, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 10,
-    "nombre": "C03",
+    "nombre": "C10",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C010 - Dayalyn",
     "x": 376, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 11,
     "nombre": "C03",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C011 - Bunnies in the sky",
     "x": 428, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 12,
-    "nombre": "C03",
+    "nombre": "C12",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C012 - Coklat Nails",
     "x": 482, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 13,
-    "nombre": "C03",
+    "nombre": "C13",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C013 - PressOnRevbee",
     "x": 534, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 14,
-    "nombre": "C03",
+    "nombre": "C14",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C014 - NatitiDIY",
     "x": 586, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 15,
-    "nombre": "C03",
+    "nombre": "C15",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C015 - Luna CosasFrikis",
     "x": 641, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 16,
-    "nombre": "C03",
+    "nombre": "C16",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C016 - Miss Bowin",
     "x": 693, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 17,
-    "nombre": "C03",
+    "nombre": "C17-C18",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
-    "x": 216, "y": 428, "width": 50, "height": 50
-  },
-  {
-    "id": 18,
-    "nombre": "C03",
-    "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
-    "x": 270, "y": 428, "width": 50, "height": 50
+    "descripcion": "C017/C018 - Borart & Jasonart Clay",
+    "x": 216, "y": 428, "width": 100, "height": 50
   },
   {
     "id": 19,
-    "nombre": "C03",
+    "nombre": "C19",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C019 - Nani's Dolls",
     "x": 323, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 20,
-    "nombre": "C03",
+    "nombre": "C20",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C020 - Bubu's Nook",
     "x": 376, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 21,
-    "nombre": "C03",
+    "nombre": "C21",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C021 - Petricor Essence",
     "x": 428, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 22,
-    "nombre": "C03",
+    "nombre": "C22",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C022 - Alfie's crafts",
     "x": 482, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 23,
-    "nombre": "C03",
+    "nombre": "C23",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C023 - Pocket Deco",
     "x": 534, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 24,
-    "nombre": "C03",
+    "nombre": "C24",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C024 - NeedleGrenli",
     "x": 586, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 25,
-    "nombre": "C03",
+    "nombre": "C25-C26",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
-    "x": 641, "y": 428, "width": 50, "height": 50
-  },
-  {
-    "id": 26,
-    "nombre": "C03",
-    "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
-    "x": 693, "y": 428, "width": 50, "height": 50
+    "descripcion": "C025/C026 - Steamkatt",
+    "x": 641, "y": 428, "width": 100, "height": 50
   },
   {
     "id": 27,
     "nombre": "C27",
     "categoria": "artesanos",
-    "descripcion": "C001 - Crochegurumis",
+    "descripcion": "C027 - Isabelarte",
     "x": 258, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 28,
+    "nombre": "C28",
+    "categoria": "artesanos",
+    "descripcion": "C028 - Evapora Rugs",
+    "x": 312, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 29,
+    "nombre": "C29",
+    "categoria": "artesanos",
+    "descripcion": "C029 - Basati Dolls",
+    "x": 365, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 30,
+    "nombre": "C30",
+    "categoria": "artesanos",
+    "descripcion": "C030 - Kawaiitten",
+    "x": 490, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 31,
+    "nombre": "C31",
+    "categoria": "artesanos",
+    "descripcion": "C031 - DragonTejedor & Cianotipiart",
+    "x": 544, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 32,
+    "nombre": "C32-C33",
+    "categoria": "artesanos",
+    "descripcion": "C032/C033 - Fofuchan",
+    "x": 640, "y": 590, "width": 100, "height": 50
+  },
+  {
+    "id": 34,
+    "nombre": "C34",
+    "categoria": "artesanos",
+    "descripcion": "C034 - Drakensoup",
+    "x": 694, "y": 644, "width": 50, "height": 50
+  },
+  {
+    "id": 35,
+    "nombre": "C35",
+    "categoria": "artesanos",
+    "descripcion": "C035 - poki3D & RqlWorld",
+    "x": 694, "y": 698, "width": 50, "height": 50
+  },
+  {
+    "id": 36,
+    "nombre": "C36",
+    "categoria": "artesanos",
+    "descripcion": "C036 - Chic Chat Boutique",
+    "x": 694, "y": 750, "width": 50, "height": 50
+  },
+  {
+    "id": 37,
+    "nombre": "C37",
+    "categoria": "artesanos",
+    "descripcion": "C037 - Kageoni",
+    "x": 694, "y": 804, "width": 50, "height": 50
+  },
+  {
+    "id": 38,
+    "nombre": "C38",
+    "categoria": "artesanos",
+    "descripcion": "C038 - Jackussy",
+    "x": 694, "y": 857, "width": 50, "height": 50
+  },
+  {
+    "id": 101,
+    "nombre": "D01",
+    "categoria": "doujin",
+    "descripcion": "D001 - Kali Kariumu",
+    "x": 872, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 102,
+    "nombre": "D02",
+    "categoria": "doujin",
+    "descripcion": "D002 - Kohakucchi / Noroohita",
+    "x": 925, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 103,
+    "nombre": "D03",
+    "categoria": "doujin",
+    "descripcion": "D002 - Nuriajolmedo y Dreemen",
+    "x": 1021, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 104,
+    "nombre": "D04",
+    "categoria": "doujin",
+    "descripcion": "D004 - Pleasemyart",
+    "x": 1074, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 105,
+    "nombre": "D05",
+    "categoria": "doujin",
+    "descripcion": "D005 - Angel-Laboratories y Anikiu_",
+    "x": 1250, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 106,
+    "nombre": "D06",
+    "categoria": "doujin",
+    "descripcion": "D006 - Aixa",
+    "x": 1303, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 107,
+    "nombre": "D07",
+    "categoria": "doujin",
+    "descripcion": "D007 - LUCAS MARFIL ART",
+    "x": 1400, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 108,
+    "nombre": "D08",
+    "categoria": "doujin",
+    "descripcion": "D008 - Rryuuart",
+    "x": 1452, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 109,
+    "nombre": "D09",
+    "categoria": "doujin",
+    "descripcion": "D009 - Airivdraws",
+    "x": 1630, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 110,
+    "nombre": "D10",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1683, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 111,
+    "nombre": "D11",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1780, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 112,
+    "nombre": "D12",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1833, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 113,
+    "nombre": "D13",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2012, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 114,
+    "nombre": "D14",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2066, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 115,
+    "nombre": "D15",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2162, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 116,
+    "nombre": "D16",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2212, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 117,
+    "nombre": "D17",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 872, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 118,
+    "nombre": "D18",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 926, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 119,
+    "nombre": "D19",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 980, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 120,
+    "nombre": "D20",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1033, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 121,
+    "nombre": "D21",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1084, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 122,
+    "nombre": "D22",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1135, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 123,
+    "nombre": "D23",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1187, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 124,
+    "nombre": "D24",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 872, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 125,
+    "nombre": "D25",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 926, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 126,
+    "nombre": "D26",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 980, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 127,
+    "nombre": "D27",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1033, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 128,
+    "nombre": "D28",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1082, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 129,
+    "nombre": "D29",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1135, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 130,
+    "nombre": "D30",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1187, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 131,
+    "nombre": "D31",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1330, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 132,
+    "nombre": "D32",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1383, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 133,
+    "nombre": "D33",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1436, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 134,
+    "nombre": "D34",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1489, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 135,
+    "nombre": "D35",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1542, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 136,
+    "nombre": "D36",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1595, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 137,
+    "nombre": "D37",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1648, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 138,
+    "nombre": "D38",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1701, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 139,
+    "nombre": "D39",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1754, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 140,
+    "nombre": "D40",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1330, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 141,
+    "nombre": "D41",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1383, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 142,
+    "nombre": "D42",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1436, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 143,
+    "nombre": "D43",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1489, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 144,
+    "nombre": "D44",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1542, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 145,
+    "nombre": "D45",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1595, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 146,
+    "nombre": "D46",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1648, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 147,
+    "nombre": "D47",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1701, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 148,
+    "nombre": "D48",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1754, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 149,
+    "nombre": "D49",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1897, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 150,
+    "nombre": "D50",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1950, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 151,
+    "nombre": "D51",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2003, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 152,
+    "nombre": "D52",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2056, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 153,
+    "nombre": "D53",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2109, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 154,
+    "nombre": "D54",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2160, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 155,
+    "nombre": "D55",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2212, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 156,
+    "nombre": "D56",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1897, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 157,
+    "nombre": "D57",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1950, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 158,
+    "nombre": "D58",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2003, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 159,
+    "nombre": "D59",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2056, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 160,
+    "nombre": "D60",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2109, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 161,
+    "nombre": "D61",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2160, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 162,
+    "nombre": "D62",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2212, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 168,
+    "nombre": "D68",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 871, "y": 645, "width": 50, "height": 50
+  },
+  {
+    "id": 167,
+    "nombre": "D67",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 871, "y": 698, "width": 50, "height": 50
+  },
+  {
+    "id": 166,
+    "nombre": "D66",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 871, "y": 751, "width": 50, "height": 50
+  },
+  {
+    "id": 165,
+    "nombre": "D65",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 871, "y": 804, "width": 50, "height": 50
+  },
+  {
+    "id": 164,
+    "nombre": "D64",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 871, "y": 857, "width": 50, "height": 50
+  },
+  {
+    "id": 163,
+    "nombre": "D63",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 871, "y": 910, "width": 50, "height": 50
+  },
+  {
+    "id": 169,
+    "nombre": "D69",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1020, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 170,
+    "nombre": "D70",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1071, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 171,
+    "nombre": "D71",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1122, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 172,
+    "nombre": "D72",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1175, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 173,
+    "nombre": "D73",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1228, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 174,
+    "nombre": "D74",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1410, "y": 588, "width": 50, "height": 50
+  },
+  {
+    "id": 175,
+    "nombre": "D75",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1462, "y": 588, "width": 50, "height": 50
+  },
+  {
+    "id": 176,
+    "nombre": "D76",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1514, "y": 588, "width": 50, "height": 50
+  },
+  {
+    "id": 177,
+    "nombre": "D77",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1566, "y": 588, "width": 50, "height": 50
+  },
+  {
+    "id": 178,
+    "nombre": "D78",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1619, "y": 588, "width": 50, "height": 50
+  },
+  {
+    "id": 179,
+    "nombre": "D79",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1672, "y": 588, "width": 50, "height": 50
+  },
+  {
+    "id": 180,
+    "nombre": "D80",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1852, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 181,
+    "nombre": "D81",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1904, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 182,
+    "nombre": "D82",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 1956, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 183,
+    "nombre": "D83",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2008, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 184,
+    "nombre": "D84",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2060, "y": 590, "width": 50, "height": 50
+  },
+  {
+    "id": 185,
+    "nombre": "D85",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2207, "y": 642, "width": 50, "height": 50
+  },
+  {
+    "id": 186,
+    "nombre": "D86",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2207, "y": 694, "width": 50, "height": 50
+  },
+  {
+    "id": 187,
+    "nombre": "D87",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2207, "y": 746, "width": 50, "height": 50
+  },
+  {
+    "id": 188,
+    "nombre": "D88",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2207, "y": 798, "width": 50, "height": 50
+  },
+  {
+    "id": 189,
+    "nombre": "D89",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2207, "y": 850, "width": 50, "height": 50
+  },
+  {
+    "id": 190,
+    "nombre": "D90",
+    "categoria": "doujin",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2207, "y": 902, "width": 50, "height": 50
+  }
+
+  ,
+  {
+    "id": 201,
+    "nombre": "E01",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2385, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 202,
+    "nombre": "E02",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2440, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 203,
+    "nombre": "E03",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2538, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 204,
+    "nombre": "E04",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2590, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 205,
+    "nombre": "E05",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2770, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 206,
+    "nombre": "E06",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2822, "y": 210, "width": 50, "height": 50
+  }
+
+  ,
+  {
+    "id": 207,
+    "nombre": "E07",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2919, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 208,
+    "nombre": "E08",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2971, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 209,
+    "nombre": "E09",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 3023, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 210,
+    "nombre": "E10",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 3075, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 211,
+    "nombre": "E11",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2390, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 212,
+    "nombre": "E12",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2442, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 213,
+    "nombre": "E13",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2494, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 214,
+    "nombre": "E14",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2547, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 215,
+    "nombre": "E15",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2600, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 216,
+    "nombre": "E16",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2654, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 217,
+    "nombre": "E17",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2707, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 218,
+    "nombre": "E18",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2760, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 219,
+    "nombre": "E19",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2813, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 220,
+    "nombre": "E20",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2866, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 221,
+    "nombre": "E21",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2919, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 222,
+    "nombre": "E22",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2972, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 223,
+    "nombre": "E23",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 3025, "y": 371, "width": 50, "height": 50
+  },{
+    "id": 224,
+    "nombre": "E24",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 3078, "y": 371, "width": 50, "height": 50
+  },
+  {
+    "id": 225,
+    "nombre": "E25",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2390, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 226,
+    "nombre": "E26",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2442, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 227,
+    "nombre": "E27",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2494, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 228,
+    "nombre": "E28",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2547, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 229,
+    "nombre": "E29",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2600, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 230,
+    "nombre": "E30",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2654, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 231,
+    "nombre": "E31",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2707, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 232,
+    "nombre": "E32",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2760, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 233,
+    "nombre": "E33",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2813, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 234,
+    "nombre": "E34",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2866, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 235,
+    "nombre": "E35",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2919, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 236,
+    "nombre": "E36",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2972, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 237,
+    "nombre": "E37",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 3025, "y": 426, "width": 50, "height": 50
+  },{
+    "id": 238,
+    "nombre": "E38",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 3078, "y": 426, "width": 50, "height": 50
+  }
+  ,{
+    "id": 239,
+    "nombre": "E39",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2390, "y": 852, "width": 50, "height": 50
+  },{
+    "id": 240,
+    "nombre": "E40",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2390, "y": 799, "width": 50, "height": 50
+  }
+  ,{
+    "id": 241,
+    "nombre": "E41",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2390, "y": 746, "width": 50, "height": 50
+  },{
+    "id": 242,
+    "nombre": "E42",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2390, "y": 693, "width": 50, "height": 50
+  },{
+    "id": 243,
+    "nombre": "E43",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2390, "y": 640, "width": 50, "height": 50
+  },{
+    "id": 244,
+    "nombre": "E44",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2390, "y": 587, "width": 50, "height": 50
+  },{
+    "id": 245,
+    "nombre": "E45",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2443, "y": 587, "width": 50, "height": 50
+  }
+  ,{
+    "id": 246,
+    "nombre": "E46",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2537, "y": 587, "width": 50, "height": 50
+  },{
+    "id": 247,
+    "nombre": "E47",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2589, "y": 587, "width": 50, "height": 50
+  },{
+    "id": 248,
+    "nombre": "E48",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2717, "y": 587, "width": 50, "height": 50
+  },{
+    "id": 249,
+    "nombre": "E49",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2769, "y": 587, "width": 50, "height": 50
+  },{
+    "id": 250,
+    "nombre": "E50",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2821, "y": 587, "width": 50, "height": 50
+  }
+  ,{
+    "id": 251,
+    "nombre": "E51",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 2976, "y": 587, "width": 50, "height": 50
+  },{
+    "id": 252,
+    "nombre": "E52",
+    "categoria": "artistas",
+    "descripcion": "D02 - Calicocrafts",
+    "x": 3028, "y": 587, "width": 50, "height": 50
   }
 ]
