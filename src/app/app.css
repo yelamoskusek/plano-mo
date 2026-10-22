@@ -3,6 +3,8 @@
   flex-direction: column;
   height: 100dvh; 
   overflow: hidden;
+  padding-bottom: env(safe-area-inset-bottom);
+  box-sizing: border-box;
 }
 
 app-filter-bar {
