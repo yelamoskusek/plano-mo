@@ -400,170 +400,163 @@
   },
   {
     "id": 124,
-    "nombre": "D24",
+    "nombre": "D24-D25",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
-    "x": 872, "y": 428, "width": 50, "height": 50
-  },
-  {
-    "id": 125,
-    "nombre": "D25",
-    "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
-    "x": 926, "y": 428, "width": 50, "height": 50
+    "descripcion": "D024/D025 - Juapi Coffee Artist",
+    "x": 872, "y": 428, "width": 100, "height": 50
   },
   {
     "id": 126,
     "nombre": "D26",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D026 - KokusPokus",
     "x": 980, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 127,
     "nombre": "D27",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D027 - La Korohouse",
     "x": 1033, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 128,
     "nombre": "D28",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D028 - Tinkerbells Kawaii",
     "x": 1082, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 129,
     "nombre": "D29",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D029 - TinyDragon Art",
     "x": 1135, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 130,
     "nombre": "D30",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D030 - Samanta Nimvyr",
     "x": 1187, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 131,
     "nombre": "D31",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D031 - Lomito",
     "x": 1330, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 132,
     "nombre": "D32",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D032 - Punikuni",
     "x": 1383, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 133,
     "nombre": "D33",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D033 - Okhami Studio",
     "x": 1436, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 134,
     "nombre": "D34",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D034 - klunet",
     "x": 1489, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 135,
     "nombre": "D35",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D035 - María Aceituno",
     "x": 1542, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 136,
     "nombre": "D36",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D036 - Danegil",
     "x": 1595, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 137,
     "nombre": "D37",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D037 - Albi Pink",
     "x": 1648, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 138,
     "nombre": "D38",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D038 - Meisaki",
     "x": 1701, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 139,
     "nombre": "D39",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D039 - Chascoby",
     "x": 1754, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 140,
     "nombre": "D40",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D040 - Kaede Polan",
     "x": 1330, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 141,
     "nombre": "D41",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D041 - Kamapon's Workshop",
     "x": 1383, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 142,
     "nombre": "D42",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D042 - Emziel",
     "x": 1436, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 143,
     "nombre": "D43",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D043 - Moe Luv",
     "x": 1489, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 144,
     "nombre": "D44",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D044 - Storytellers' Atelier",
     "x": 1542, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 145,
     "nombre": "D45",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D045 - Mezzo",
     "x": 1595, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 146,
     "nombre": "D46",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D046 - Blue Heroes",
     "x": 1648, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 147,
     "nombre": "D47",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D047 - Lady Dragón Desgraciado",
     "x": 1701, "y": 428, "width": 50, "height": 50
   },
   {
@@ -577,294 +570,280 @@
     "id": 149,
     "nombre": "D49",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D048 - Aquaxtic",
     "x": 1897, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 150,
     "nombre": "D50",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D050 - SelenaBitt",
     "x": 1950, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 151,
     "nombre": "D51",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D051 - Cloud_iart",
     "x": 2003, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 152,
     "nombre": "D52",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D052 - Boduu",
     "x": 2056, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 153,
     "nombre": "D53",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D053 - LXSTPHOENIX",
     "x": 2109, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 154,
     "nombre": "D54",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D054 - Emedeme",
     "x": 2160, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 155,
     "nombre": "D55",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D055 - Dalcant",
     "x": 2212, "y": 373, "width": 50, "height": 50
   },
   {
     "id": 156,
-    "nombre": "D56",
+    "nombre": "D56-D57",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
-    "x": 1897, "y": 428, "width": 50, "height": 50
-  },
-  {
-    "id": 157,
-    "nombre": "D57",
-    "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
-    "x": 1950, "y": 428, "width": 50, "height": 50
+    "descripcion": "D056/D057 - Danilo Vaz",
+    "x": 1897, "y": 428, "width": 100, "height": 50
   },
   {
     "id": 158,
     "nombre": "D58",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D058 - Inkedmelon",
     "x": 2003, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 159,
     "nombre": "D59",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D059 - Gominnola",
     "x": 2056, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 160,
     "nombre": "D60",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D060 - ciale.cosas",
     "x": 2109, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 161,
     "nombre": "D61",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D061 - Lucía.Gallart",
     "x": 2160, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 162,
     "nombre": "D62",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D062 - ANGELAGALERIE",
     "x": 2212, "y": 428, "width": 50, "height": 50
   },
   {
     "id": 168,
     "nombre": "D68",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D068 - Gomidots",
     "x": 871, "y": 645, "width": 50, "height": 50
   },
   {
     "id": 167,
     "nombre": "D67",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D067 - J.Giner Ilustración",
     "x": 871, "y": 698, "width": 50, "height": 50
   },
   {
     "id": 166,
     "nombre": "D66",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D066 - nerebah!",
     "x": 871, "y": 751, "width": 50, "height": 50
   },
   {
     "id": 165,
     "nombre": "D65",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D065 - Xomolai",
     "x": 871, "y": 804, "width": 50, "height": 50
   },
   {
     "id": 164,
     "nombre": "D64",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D064 - tryptid",
     "x": 871, "y": 857, "width": 50, "height": 50
   },
   {
     "id": 163,
     "nombre": "D63",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D063 - Bluilea",
     "x": 871, "y": 910, "width": 50, "height": 50
   },
   {
     "id": 169,
     "nombre": "D69",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D069 - Biskys Garden",
     "x": 1020, "y": 590, "width": 50, "height": 50
   },
   {
     "id": 170,
     "nombre": "D70",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D070 - Garabato",
     "x": 1071, "y": 590, "width": 50, "height": 50
   },
   {
     "id": 171,
     "nombre": "D71",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D071 - PACOCO",
     "x": 1122, "y": 590, "width": 50, "height": 50
   },
   {
     "id": 172,
     "nombre": "D72",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D072 - Matsuka san",
     "x": 1175, "y": 590, "width": 50, "height": 50
   },
   {
     "id": 173,
     "nombre": "D73",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D073 - This? It's Nana",
     "x": 1228, "y": 590, "width": 50, "height": 50
   },
   {
     "id": 174,
     "nombre": "D74",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D074 - Ainudraws",
     "x": 1410, "y": 588, "width": 50, "height": 50
   },
   {
     "id": 175,
     "nombre": "D75",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D075 - Loreky & Creamycat",
     "x": 1462, "y": 588, "width": 50, "height": 50
   },
   {
     "id": 176,
     "nombre": "D76",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D076 - ARASHERC",
     "x": 1514, "y": 588, "width": 50, "height": 50
   },
   {
     "id": 177,
     "nombre": "D77",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D077 - Akaennaira y Helakaii",
     "x": 1566, "y": 588, "width": 50, "height": 50
   },
   {
     "id": 178,
     "nombre": "D78",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D078 - Takodeoro",
     "x": 1619, "y": 588, "width": 50, "height": 50
   },
   {
     "id": 179,
     "nombre": "D79",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D079 - synyowsart",
     "x": 1672, "y": 588, "width": 50, "height": 50
   },
   {
     "id": 180,
-    "nombre": "D80",
+    "nombre": "D80-D81",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
-    "x": 1852, "y": 590, "width": 50, "height": 50
-  },
-  {
-    "id": 181,
-    "nombre": "D81",
-    "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
-    "x": 1904, "y": 590, "width": 50, "height": 50
+    "descripcion": "D0080/D081 - Mina starliart",
+    "x": 1852, "y": 590, "width": 100, "height": 50
   },
   {
     "id": 182,
     "nombre": "D82",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D082 - Daniel Azconegui",
     "x": 1956, "y": 590, "width": 50, "height": 50
   },
   {
     "id": 183,
     "nombre": "D83",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D083 - Nostalgia Core",
     "x": 2008, "y": 590, "width": 50, "height": 50
   },
   {
     "id": 184,
     "nombre": "D84",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D084 - uwwuntu_art",
     "x": 2060, "y": 590, "width": 50, "height": 50
   },
   {
     "id": 185,
     "nombre": "D85",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D085 - Tendencialcaos",
     "x": 2207, "y": 642, "width": 50, "height": 50
   },
   {
     "id": 186,
     "nombre": "D86",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D086 - Yue",
     "x": 2207, "y": 694, "width": 50, "height": 50
   },
   {
     "id": 187,
     "nombre": "D87",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D087 - Sharkpastel",
     "x": 2207, "y": 746, "width": 50, "height": 50
   },
   {
     "id": 188,
     "nombre": "D88",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D088 - Weird tea",
     "x": 2207, "y": 798, "width": 50, "height": 50
   },
   {
     "id": 189,
     "nombre": "D89",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D089 - Wivi.eve",
     "x": 2207, "y": 850, "width": 50, "height": 50
   },
   {
     "id": 190,
     "nombre": "D90",
     "categoria": "doujin",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "D090 - TenshidotExe",
     "x": 2207, "y": 902, "width": 50, "height": 50
   }
 
@@ -873,330 +852,323 @@
     "id": 201,
     "nombre": "E01",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E001 - skeleton4rt",
     "x": 2385, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 202,
     "nombre": "E02",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E002 - Yuky",
     "x": 2440, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 203,
     "nombre": "E03",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E003 - Lesliepopart",
     "x": 2538, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 204,
     "nombre": "E04",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E004 - Rataempanada y Ariasu",
     "x": 2590, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 205,
     "nombre": "E05",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E005 - Mikoratte",
     "x": 2770, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 206,
     "nombre": "E06",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E006 - Eris the Ferret",
     "x": 2822, "y": 210, "width": 50, "height": 50
   }
-
   ,
   {
     "id": 207,
     "nombre": "E07",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E007 - erinstars_",
     "x": 2919, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 208,
     "nombre": "E08",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E008 - Garadraws",
     "x": 2971, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 209,
     "nombre": "E09",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E009 - WhiteBirdie's",
     "x": 3023, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 210,
     "nombre": "E10",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E010 - Nhecer",
     "x": 3075, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 211,
     "nombre": "E11",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E011 - Suited Caprice",
     "x": 2390, "y": 371, "width": 50, "height": 50
   },{
     "id": 212,
     "nombre": "E12",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E012 - Komao & Jupiter Rin",
     "x": 2442, "y": 371, "width": 50, "height": 50
   },{
     "id": 213,
     "nombre": "E13",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E013 - Por un Lirio",
     "x": 2494, "y": 371, "width": 50, "height": 50
   },{
     "id": 214,
     "nombre": "E14",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E014 - DaruVa",
     "x": 2547, "y": 371, "width": 50, "height": 50
   },{
     "id": 215,
     "nombre": "E15",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E015 - Ashofsamhain",
     "x": 2600, "y": 371, "width": 50, "height": 50
   },{
     "id": 216,
     "nombre": "E16",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E016 - Luvamiart",
     "x": 2654, "y": 371, "width": 50, "height": 50
   },{
     "id": 217,
     "nombre": "E17",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E017 - Rodraws",
     "x": 2707, "y": 371, "width": 50, "height": 50
   },{
     "id": 218,
     "nombre": "E18",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E018 - Helios Ashes",
     "x": 2760, "y": 371, "width": 50, "height": 50
   },{
     "id": 219,
     "nombre": "E19",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E019 - Plusheena",
     "x": 2813, "y": 371, "width": 50, "height": 50
   },{
     "id": 220,
     "nombre": "E20",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E020 - Alice3dArt",
     "x": 2866, "y": 371, "width": 50, "height": 50
   },{
     "id": 221,
     "nombre": "E21",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E021 - Nakary Koraline",
     "x": 2919, "y": 371, "width": 50, "height": 50
   },{
     "id": 222,
     "nombre": "E22",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E022 - hinidibu",
     "x": 2972, "y": 371, "width": 50, "height": 50
   },{
     "id": 223,
     "nombre": "E23",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E023 - nichromatic",
     "x": 3025, "y": 371, "width": 50, "height": 50
   },{
     "id": 224,
     "nombre": "E24",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E024 - Mots de Sorciere and Kani Souris",
     "x": 3078, "y": 371, "width": 50, "height": 50
   },
   {
     "id": 225,
     "nombre": "E25",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E025 - Tangerine",
     "x": 2390, "y": 426, "width": 50, "height": 50
   },{
     "id": 226,
     "nombre": "E26",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E026 - martissey",
     "x": 2442, "y": 426, "width": 50, "height": 50
   },{
     "id": 227,
     "nombre": "E27",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E027 - Delta PML",
     "x": 2494, "y": 426, "width": 50, "height": 50
   },{
     "id": 228,
     "nombre": "E28",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E028 - Marsipousa",
     "x": 2547, "y": 426, "width": 50, "height": 50
   },{
     "id": 229,
     "nombre": "E29",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E029 - Claus.ART",
     "x": 2600, "y": 426, "width": 50, "height": 50
   },{
     "id": 230,
     "nombre": "E30",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E030 - Alien Shop",
     "x": 2654, "y": 426, "width": 50, "height": 50
   },{
     "id": 231,
     "nombre": "E31",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E031 - MySleepyBlue",
     "x": 2707, "y": 426, "width": 50, "height": 50
   },{
     "id": 232,
     "nombre": "E32",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E032 - Meduusozoa",
     "x": 2760, "y": 426, "width": 50, "height": 50
   },{
     "id": 233,
     "nombre": "E33",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E033 - sandyycosmos",
     "x": 2813, "y": 426, "width": 50, "height": 50
   },{
     "id": 234,
     "nombre": "E34",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E034 - DinoseaStar",
     "x": 2866, "y": 426, "width": 50, "height": 50
   },{
     "id": 235,
     "nombre": "E35",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E035 - paupxxart y yoku._.kun",
     "x": 2919, "y": 426, "width": 50, "height": 50
   },{
     "id": 236,
     "nombre": "E36",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E036 - noquismiu",
     "x": 2972, "y": 426, "width": 50, "height": 50
   },{
     "id": 237,
     "nombre": "E37",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E037 - ShioShop",
     "x": 3025, "y": 426, "width": 50, "height": 50
   },{
     "id": 238,
     "nombre": "E38",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E038 - Mutant Kaiju",
     "x": 3078, "y": 426, "width": 50, "height": 50
   }
   ,{
     "id": 239,
     "nombre": "E39",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E039 - cutegirlsart",
     "x": 2390, "y": 852, "width": 50, "height": 50
   },{
     "id": 240,
     "nombre": "E40",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E040 - Mist4",
     "x": 2390, "y": 799, "width": 50, "height": 50
   }
   ,{
     "id": 241,
     "nombre": "E41",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E041 - Mei syren",
     "x": 2390, "y": 746, "width": 50, "height": 50
   },{
     "id": 242,
     "nombre": "E42",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E042 - Nhoart",
     "x": 2390, "y": 693, "width": 50, "height": 50
   },{
     "id": 243,
     "nombre": "E43",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E043 - Bretoh y Den",
     "x": 2390, "y": 640, "width": 50, "height": 50
   },{
     "id": 244,
-    "nombre": "E44",
+    "nombre": "E44-E45",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
-    "x": 2390, "y": 587, "width": 50, "height": 50
-  },{
-    "id": 245,
-    "nombre": "E45",
-    "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
-    "x": 2443, "y": 587, "width": 50, "height": 50
+    "descripcion": "E044/E045 - illuyong",
+    "x": 2390, "y": 587, "width": 100, "height": 50
   }
   ,{
     "id": 246,
     "nombre": "E46",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E046 - Amayart",
     "x": 2537, "y": 587, "width": 50, "height": 50
   },{
     "id": 247,
     "nombre": "E47",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E047 - Aitor Amaru",
     "x": 2589, "y": 587, "width": 50, "height": 50
   },{
     "id": 248,
     "nombre": "E48",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E048 - Howuld Y MistGardens",
     "x": 2717, "y": 587, "width": 50, "height": 50
   },{
     "id": 249,
     "nombre": "E49",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E049 - Tsunako",
     "x": 2769, "y": 587, "width": 50, "height": 50
   },{
     "id": 250,
     "nombre": "E50",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E050 - Alisus_art",
     "x": 2821, "y": 587, "width": 50, "height": 50
   }
   ,{
     "id": 251,
     "nombre": "E51",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E051 - BonnieM & spookyarthuman",
     "x": 2976, "y": 587, "width": 50, "height": 50
   },{
     "id": 252,
     "nombre": "E52",
     "categoria": "artistas",
-    "descripcion": "D02 - Calicocrafts",
+    "descripcion": "E052 - miroimirage y Vikipuntocom",
     "x": 3028, "y": 587, "width": 50, "height": 50
   }
 ]
