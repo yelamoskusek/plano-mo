@@ -1,5 +1,9 @@
 <app-filter-bar />
 <div class="titulo">PLANO NO OFICIAL DE MADRID OTAKU</div>
-<app-map-view />
+@if (planosService.planoActual().tipo === 'lista') {
+  <app-favoritos-list />
+} @else {
+  <app-map-view />
+}
 <app-info></app-info>
 <app-botonera-navegacion />

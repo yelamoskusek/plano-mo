@@ -8,20 +8,21 @@ private readonly _planos = signal<Plano[]>([
     {
       id: 'principal',
       nombre: 'Principal',
+      tipo: 'mapa',
       archivo: 'assets/PlanoA.png',
       archivoStands: 'assets/stands/principal.json'
     },
+    // {
+    //   id: 'zona-a',
+    //   nombre: 'Zona A',
+    //   tipo: 'mapa',
+    //   archivo: 'assets/Plano_ZonaA.svg',
+    //   archivoStands: 'assets/stands/zona-a.json'
+    // },
     {
-      id: 'zona-a',
-      nombre: 'Zona A',
-      archivo: 'assets/Plano_ZonaA.svg',
-      archivoStands: 'assets/stands/zona-a.json'
-    },
-    {
-      id: 'zona-b',
-      nombre: 'Zona B',
-      archivo: 'assets/Plano_ZonaB.svg',
-      archivoStands: 'assets/stands/zona-b.json'
+      id: 'favoritos',
+      nombre: 'Favoritos',
+      tipo: 'lista'
     }
   ]);
   readonly planos = this._planos.asReadonly();

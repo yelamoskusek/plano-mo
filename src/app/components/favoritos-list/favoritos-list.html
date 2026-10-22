@@ -1,0 +1,24 @@
+<!-- src/app/components/favoritos-list/favoritos-list.html -->
+<div class="lista-container">
+  @if (favoritos().length === 0) {
+    <div class="vacio">
+      <p class="titulo">No tienes favoritos todavía</p>
+      <p class="hint">Mantén pulsado un stand en el mapa para añadirlo.</p>
+    </div>
+  } @else {
+    <ul>
+      @for (fav of favoritos(); track fav.stand.id) {
+        <li (click)="irAlPlano(fav)">
+          <span class="dot" [style.background]="colorCategoria(fav.stand.categoria)"></span>
+          <div class="info">
+            <div class="cabecera">
+              <strong>{{ fav.stand.nombre }}</strong>
+              <span class="plano">{{ nombrePlano(fav.planoId) }}</span>
+            </div>
+            <span class="desc">{{ fav.stand.descripcion }}</span>
+          </div>
+        </li>
+      }
+    </ul>
+  }
+</div>

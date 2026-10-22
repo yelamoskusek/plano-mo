@@ -31,7 +31,7 @@ export class StandsService {
     }
 
     const plano = this.planosService.planos().find(p => p.id === planoId);
-    if (!plano) {
+    if (!plano || !plano.archivoStands) {
       this._stands.set([]);
       return;
     }
