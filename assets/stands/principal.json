@@ -1,16 +1,191 @@
 [
   {
     "id": 1,
-    "nombre": "C001",
+    "nombre": "C01",
     "categoria": "artesanos",
     "descripcion": "C001 - Calicocrafts",
     "x": 258, "y": 210, "width": 50, "height": 50
   },
   {
     "id": 2,
-    "nombre": "C002",
+    "nombre": "C02",
     "categoria": "artesanos",
     "descripcion": "C001 - Crochegurumis",
     "x": 308, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 3,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 492, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 4,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 545, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 5,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 640, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 6,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 694, "y": 210, "width": 50, "height": 50
+  },
+  {
+    "id": 7,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 216, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 8,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 270, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 9,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 323, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 10,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 376, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 11,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 428, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 12,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 482, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 13,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 534, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 14,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 586, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 15,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 641, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 16,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 693, "y": 373, "width": 50, "height": 50
+  },
+  {
+    "id": 17,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 216, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 18,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 270, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 19,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 323, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 20,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 376, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 21,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 428, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 22,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 482, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 23,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 534, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 24,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 586, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 25,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 641, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 26,
+    "nombre": "C03",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 693, "y": 428, "width": 50, "height": 50
+  },
+  {
+    "id": 27,
+    "nombre": "C27",
+    "categoria": "artesanos",
+    "descripcion": "C001 - Crochegurumis",
+    "x": 260, "y": 592, "width": 50, "height": 50
   }
 ]
