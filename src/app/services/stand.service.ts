@@ -49,9 +49,9 @@ export class StandsService {
 
   colorPorCategoria(categoria: string): string {
     const colores: Record<string, string> = {
-      actividades: '#f59e0b',
-      artesanos: '#3b82f6',
-      comercial: '#ec4899',
+      artesanos: '#eb193e',
+      doujin: '#245489',
+      artistas: '#ffb64f',
       comida: '#10b981',
       servicios: '#8b5cf6'
     };

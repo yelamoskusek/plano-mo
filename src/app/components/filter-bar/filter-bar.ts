@@ -11,7 +11,7 @@ import { Categoria } from '../../models/stand.model';
   styleUrls: ['./filter-bar.css']
 })
 export class FilterBarComponent {
-  categorias: Categoria[] = ['actividades', 'artesanos', 'comercial', 'comida', 'servicios'];
+  categorias: Categoria[] = ['artesanos', 'doujin', 'artistas', 'comida', 'servicios'];
 
   constructor(public filterService: FilterService) {}
 }

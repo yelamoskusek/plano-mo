@@ -75,7 +75,7 @@
 }
 
 .stand.favorito rect {
-  stroke: #990c24;
-  stroke-width: 0.7;
-  filter: drop-shadow(0 0 1.5px #030303);
+  stroke: gold;
+  stroke-width: 2;
+  filter: drop-shadow(0 0 3px #030303);
 }

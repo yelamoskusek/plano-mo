@@ -1,4 +1,4 @@
-export type Categoria = 'actividades' |'artesanos' |'comercial'| 'comida' | 'servicios';
+export type Categoria = 'artesanos' |'doujin'| 'artistas' | 'comida' |'servicios';
 
 export interface Stand {
   id: number;
